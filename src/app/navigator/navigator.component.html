@@ -1,0 +1,12 @@
+<div class="navigator-area">
+    <div></div>
+    <div class="navigator">
+        <div *ngFor="let i of questionIndex">
+            <div [ngStyle]="{
+                'width': dataService.index === i? '.6rem':'.4rem',
+                'height': dataService.index === i? '.6rem':'.4rem',
+            }" [ngClass]="contains(i, dataService.qIndexList)? 'filled_icon':'blank_icon'"></div>
+        </div>
+    </div>
+    <span style="height: 100%; display: flex; align-items: center;"><button (click)="checkAnswer()" [ngStyle]="{'display': buttonType === ''?'none': 'inline'}">{{buttonType}}</button></span>
+</div>

@@ -1,0 +1,35 @@
+.header{
+    width: 100%;
+    height: 3.5rem;
+    background-color: #94BBD1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    position: sticky;
+    animation: fadeInDown;
+    animation-duration: 1.5s;
+}
+
+.title{
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Assistant', sans-serif;
+    margin: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.presentation{
+    height: 60%;
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+.close{
+    height: 45%;
+    margin-right: 1.5rem;
+    cursor: pointer;
+}

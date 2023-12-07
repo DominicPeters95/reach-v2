@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.blank{
+    width: 5rem;
+    height: 2rem;
+    padding: 0rem .5rem;
+    font-size: 1rem;
+    color: #F7F7F7;
+    border-radius: .25rem;
+    // background-color: gray;
+    cursor: pointer;
+}
+
+.filled{
+    width: fit-content;
+    height: 2rem;
+    padding: 0rem .5rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: white;
+    cursor: pointer;
+}
+
+.bottom-area{
+    width: 100%;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    
+    .answer-area{
+        width: 100%;
+    }
+
+    .navigator-area{
+        background-color: white;
+        width: 100%;
+        height: 3.3rem;
+        position: sticky;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }    
+}

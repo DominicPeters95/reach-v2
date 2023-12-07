@@ -1,0 +1,9 @@
+<div>
+    <div class="answer">
+        <div class="answer-list" *ngFor="let answer of answers, index as i; trackBy: trackByIndex">
+            <button [ngStyle]="{'background-color': color}" (click)="onClick(i, answer.id)">
+                {{answer.elements[0].content}}
+            </button>
+        </div>
+    </div>
+</div>

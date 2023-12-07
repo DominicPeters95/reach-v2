@@ -1,0 +1,44 @@
+.area{
+    min-height: calc(100vh - 15rem);
+    padding: .8rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+.text{
+    font-size: 1.1rem;
+    font-family: 'Assistant', sans-serif;
+    margin: 1rem 0rem;
+    animation: fadeInUp;
+    animation-duration: 2s;
+    background-color: #FFE3CE;
+    border-radius: 1rem;
+    padding: 1rem;    
+}
+
+.button{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 9rem;
+    bottom: 0;
+    left: 0;
+    position: sticky;
+}
+
+.button button{
+    font-size: 1.2rem;
+    font-family: 'Assistant', sans-serif;
+    cursor: pointer;
+    font-weight: 500;
+    padding: .8rem 1.5rem;
+    background-color: #F47321;
+    border: none;
+    color: white;
+    border-radius: 5rem;
+    animation: fadeInUp;
+    animation-duration: 2s;
+}

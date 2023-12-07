@@ -1,0 +1,10 @@
+<button 
+    [ngStyle]="{
+        'border': isSelected? '.13rem solid #006080': '.13rem solid #dbdbdb',
+        'border-color': borderColor,
+        'background-color': bgColor,
+    }" 
+    [ngClass]="{'blank': !isFilled, 'filled': isFilled}"
+    (click)="onClick()">
+    {{text}}
+</button>

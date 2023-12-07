@@ -1,0 +1,5 @@
+<div class="questions-area">
+    <div #questionElements *ngFor="let q of questions, index as i; trackBy: trackByIndex">
+        <div id="{{i}}" class="dynamic-content" (click)="selecetdQuestion(i)"><ngx-dynamic-hooks [content]="q.content" [context]="contexts[i]"></ngx-dynamic-hooks></div>
+    </div>
+</div>
