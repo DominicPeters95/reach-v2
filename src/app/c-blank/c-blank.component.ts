@@ -1,6 +1,5 @@
 import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
 import { DataService } from '../services/data.service';
-import { Answer } from '../modules/module';
 
 @Component({
   selector: 'c-blank',
@@ -18,7 +17,9 @@ export class CBlankComponent implements OnInit, OnChanges{
   text = "_";
   isFilled = false;
   isSelected = false;
-  correctAnswer?: Answer;
+  isChecked = false;
+  prevColor = "#444444";
+  showed = false;
 
   constructor(private dataService: DataService){}
 
@@ -29,10 +30,12 @@ export class CBlankComponent implements OnInit, OnChanges{
       // this.bgColor = '#A1566B';
       // this.borderColor = '#A1566B';
       this.text = this.filledAnswer.content.elements[0].content;
+      console.log(this.filledAnswer.content.elements[0].content);
+      console.log(this.filledAnswer.correct.elements[0].content);
+      
       this.dataService.targetColor.subscribe((result)=>{
         this.bgColor = result;
            this.borderColor = '#A1566B';
-      
       });
     }
 
@@ -59,12 +62,22 @@ export class CBlankComponent implements OnInit, OnChanges{
           this.borderColor = 'red';
           this.bgColor = 'red';
         } 
+        this.isChecked = true;
       }
     }); 
   }
 
   onClick(){
     this.dataService.isBlankCLicked = !this.dataService.isBlankCLicked;
+    if(this.isChecked && !this.idList.includes(this.filledAnswer.id)){
+      let color = this.bgColor;
+      this.borderColor = this.prevColor;
+      this.bgColor = this.prevColor;
+      this.prevColor = color;
+      this.showed = !this.showed;
+      if(this.showed) this.text = this.filledAnswer.correct.elements[0].content;
+      else this.text = this.filledAnswer.content.elements[0].content;
+    }
   }
 
 }

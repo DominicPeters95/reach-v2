@@ -19,7 +19,7 @@ export class AnswersAreaComponent implements OnInit{
   ngOnInit(): void {
     this.dataService.loadAnswers().subscribe((result: Answer[])=>{
       if(result){
-        this.correctAnswers = result;
+        this.correctAnswers = JSON.parse(JSON.stringify(result));
         this.answers = this.shuffle(result);
       }
     });
@@ -45,7 +45,7 @@ export class AnswersAreaComponent implements OnInit{
     let option = {
       id: id,
       content: this.answers[index],
-      // correct: this.correctAnswers[index]
+      correct: this.correctAnswers[this.dataService.index-1]
     }
     this.answers.splice(index, 1);
     // this.correctAnswers.splice(index, 1);

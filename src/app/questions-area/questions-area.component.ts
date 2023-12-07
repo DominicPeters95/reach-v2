@@ -20,7 +20,6 @@ export class QuestionsAreaComponent implements OnInit, OnChanges{
   ngOnChanges(changes: SimpleChanges): void {
     if(this.dataService.index !== -1){
       this.contexts[this.dataService.index] = this.option;
-      console.log(this.option);
       this.dataService.qIndexList = this.dataService.qIndexList.filter((e)=>{return e !== this.dataService.index});
       this.autoSelect();
       // this.prev = -1;
