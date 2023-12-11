@@ -1,335 +1,566 @@
 {
-  "data": {
-      "version": "1.0.1",
-      "type": "fill_in",
-      "subType": "fill_in",
-      "title": "Template 1.1",
-      "duration": "5 Mins",
-      "skill": [
-          "Grammar",
-          "Reading",
-          "Vocabulary"
-      ],
-      "targetSkill": "Profesional Preferences and Influence",
-      "targetSkillColor": "#A1566B",
-      "subject": "Business English",
-      "presentation": {
-          "title": "Writing a Follow-up Email",
-          "elements": [
-              {
-                  "id": "e6528dc5-b636-4058-98f2-1864b01b2a87",
-                  "type": "content",
-                  "content": "<p>Occasionally, things go wrong when conducting business. Goods fail to get delivered on time, billing errors occur, or products fail to perform as expected. Such problems need to be dealt with to retain customer goodwill. Below is a template to write a follow-up letter/email that can help to resolve a business problem:</p>\n<p><b>Template to Write a Follow-up Letter/Email</b></p>\n<p>1. Open with <b>agreement</b>. </p>\n<ul><li><em>You have every right to expect… </em></li></ul>\n<p>2. Offer a sincere <b>apology</b>.  </p>\n<ul>\n<li><em>Please accept our sincere apologies for…</em></li>\t<li><em>We’re genuinely sorry about… </em></li>\n</ul>\n<p>3. Explain what caused the <b>problem</b>. </p>\n<ul><li><em>The error was a result of... </em></li></ul>\n<p>4. Explain how the problem has been <b>resolved</b>. </p>\n<ul><li><em>The problem has been taken care of... </em></li></ul>\n<p>5. Promise to prevent the problem from <b>recurring</b>. </p>\n<ul><li><em>I can assure you that we are taking every action necessary to prevent this from happening again. </em></li></ul>\n<p>6. Close with something <b>positive</b>.  </p>\n<ul>\n<li><em>Thank you for giving us an opportunity to re-examine our...</em></li>\t<li><em>We are always looking for ways to better our service, and your feedback is an invaluable part of that process.</em></li>\n</ul>\n<p><span><span><span><span><span lang=\"EN-US\">While emails are the quickest way to resolve a business problem, sometimes it is necessary to send out a follow-up letter. Letters are also necessary to (a) establish a record of the incident, and (b) to formally confirm follow-up action(s). Such letters are also handy when personal contact is difficult or impossible.</span></span></span></span></span></p>",
-                  "description": null,
-                  "media": [],
-                  "captions": []
-              }
-          ]
-      },
-      "directions": {
-          "elements": [
-              {
-                  "id": "79ec593e-6a07-42d8-8dbf-29243de919e2",
-                  "type": "content",
-                  "content": "<p><span><span><span><span><span lang=\"EN-US\">Use the template you just reviewed to order the draft of a follow-up email that Champions Swim Academy (CSA) needs to send to its customers to resolve a business problem.</span></span></span></span></span></p>",
-                  "description": null,
-                  "media": [],
-                  "captions": []
-              }
-          ]
-      },
-      "englishLevel": "Intermediate",
-      "scorable": true,
-      "feedbackType": "instant",
-      "contents": [
-          {
-              "directions": {},
-              "question": {
-                  "elements": [
-                      {
-                          "id": "6685bd38-880d-4027-a4c6-d37d9f6ef0dc",
-                          "type": "image",
-                          "content": "Image name",
-                          "description": null,
-                          "media": [
-                              {
-                                  "aspectRatio": null,
-                                  "src": "https://www.learnship.com/wp-content/uploads/2020/06/business-language-elevate-levels-progress-header-1024x576.jpg",
-                                  "captions": null
-                              }
-                          ]
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<h1>Question Content</h1><p>1. Let's <c-blank ids='111f4025-c191-42e9-bb76-5b84220cb66c,121f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='7'></c-blank> that we want to start publishing an investment newslleter for clients.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>2. We want to use email to publish our investment newsletter, <c-blank ids='111f4025-c191-42e9-bb76-5b84220cb66c,121f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='5'></c-blank> we?</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>3. I <c-blank ids='131f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='5'></c-blank> look into different types of design templates for the newsletter. I'm sure I can find something.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>4. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>5. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb668' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>6. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb667' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>7. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb666' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>8. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb665' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>9. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb664' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>10. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb663' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>11. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb662' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
-                          "type": "content",
-                          "content": "<p>12. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb661' display='inline' length='4'></c-blank> for everyone?.</p>",
-                          "description": null,
-                          "media": null
-                      },
-                      {
-                          "id": "6685bd38-880d-4027-a4c6-d37d9f6ef0dc",
-                          "type": "image",
-                          "content": "Image name",
-                          "description": null,
-                          "media": [
-                              {
-                                  "aspectRatio": null,
-                                  "src": "https://www.globant.com/sites/default/files/styles/lazy_sizeload_default/public/home_services_over_platforms.jpg",
-                                  "captions": null
-                              }
-                          ]
-                      }
-                  ],
-                  "answers": [
-                      {
-                          "id": "111f4025-c191-42e9-bb76-5b84220cb66c",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "confirm",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "121f4025-c191-42e9-bb76-5b84220cb66c",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "confirm",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "131f4025-c191-42e9-bb76-5b84220cb66c",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "won't",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb66c",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "work",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb668",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "eight",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb667",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "seven sins",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb666",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "six drinks",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb665",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "five musicians",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb664",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "four politicians",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb663",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "three archers",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb662",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "two elephants",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      },
-                      {
-                          "id": "141f4025-c191-42e9-bb76-5b84220cb661",
-                          "isCorrect": null,
-                          "elements": [
-                              {
-                                  "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
-                                  "type": "content",
-                                  "content": "one content",
-                                  "description": null,
-                                  "media": null
-                              }
-                          ],
-                          "feedback": null
-                      }
-                  ],
-                  "feedback": null
-              }
-          }
-      ]
-  }
+    "data": {
+        "version": "1.0.1",
+        "type": "fill_in",
+        "subType": "fill_in",
+        "title": "Template 1.1",
+        "duration": "5 Mins",
+        "skill": [
+            "Grammar",
+            "Reading",
+            "Vocabulary"
+        ],
+        "targetSkill": "Profesional Preferences and Influence",
+        "targetSkillColor": "#A1566B",
+        "subject": "Business English",
+        "presentation": {
+            "title": "Writing a Follow-up Email",
+            "elements": [
+                {
+                    "id": "e6528dc5-b636-4058-98f2-1864b01b2a87",
+                    "type": "content",
+                    "content": "<p>Occasionally, things go wrong when conducting business. Goods fail to get delivered on time, billing errors occur, or products fail to perform as expected. Such problems need to be dealt with to retain customer goodwill. Below is a template to write a follow-up letter/email that can help to resolve a business problem:</p>\n<p><b>Template to Write a Follow-up Letter/Email</b></p>\n<p>1. Open with <b>agreement</b>. </p>\n<ul><li><em>You have every right to expect… </em></li></ul>\n<p>2. Offer a sincere <b>apology</b>.  </p>\n<ul>\n<li><em>Please accept our sincere apologies for…</em></li>\t<li><em>We’re genuinely sorry about… </em></li>\n</ul>\n<p>3. Explain what caused the <b>problem</b>. </p>\n<ul><li><em>The error was a result of... </em></li></ul>\n<p>4. Explain how the problem has been <b>resolved</b>. </p>\n<ul><li><em>The problem has been taken care of... </em></li></ul>\n<p>5. Promise to prevent the problem from <b>recurring</b>. </p>\n<ul><li><em>I can assure you that we are taking every action necessary to prevent this from happening again. </em></li></ul>\n<p>6. Close with something <b>positive</b>.  </p>\n<ul>\n<li><em>Thank you for giving us an opportunity to re-examine our...</em></li>\t<li><em>We are always looking for ways to better our service, and your feedback is an invaluable part of that process.</em></li>\n</ul>\n<p><span><span><span><span><span lang=\"EN-US\">While emails are the quickest way to resolve a business problem, sometimes it is necessary to send out a follow-up letter. Letters are also necessary to (a) establish a record of the incident, and (b) to formally confirm follow-up action(s). Such letters are also handy when personal contact is difficult or impossible.</span></span></span></span></span></p>",
+                    "description": null,
+                    "media": [],
+                    "captions": []
+                }
+            ]
+        },
+        "directions": {
+            "elements": [
+                {
+                    "id": "79ec593e-6a07-42d8-8dbf-29243de919e2",
+                    "type": "content",
+                    "content": "<p><span><span><span><span><span lang=\"EN-US\">Use the template you just reviewed to order the draft of a follow-up email that Champions Swim Academy (CSA) needs to send to its customers to resolve a business problem.</span></span></span></span></span></p>",
+                    "description": null,
+                    "media": [],
+                    "captions": []
+                }
+            ]
+        },
+        "englishLevel": "Intermediate",
+        "scorable": true,
+        "feedbackType": "instant",
+        "contents": [
+            {
+                "directions": {},
+                "question": {
+                    "elements": [
+                        {
+                            "id": "6685bd38-880d-4027-a4c6-d37d9f6ef0dc",
+                            "type": "image",
+                            "content": "Image name",
+                            "description": null,
+                            "media": [
+                                {
+                                    "aspectRatio": null,
+                                    "src": "https://www.learnship.com/wp-content/uploads/2020/06/business-language-elevate-levels-progress-header-1024x576.jpg",
+                                    "captions": null
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<h1>Question Content</h1><p>1. Let's <c-blank ids='111f4025-c191-42e9-bb76-5b84220cb66c,121f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='7'></c-blank> that we want to start publishing an investment newslleter for clients.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>2. We want to use email to publish our investment newsletter, <c-blank ids='111f4025-c191-42e9-bb76-5b84220cb66c,121f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='5'></c-blank> we?</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>3. I <c-blank ids='131f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='5'></c-blank> look into different types of design templates for the newsletter. I'm sure I can find something.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>4. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb66c' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>5. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb668' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>6. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb667' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>7. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb666' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>8. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb665' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>9. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb664' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>10. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb663' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>11. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb662' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "7f688bc3-05e5-414a-a48c-846296e33b3d",
+                            "type": "content",
+                            "content": "<p>12. Does an investment newsletter <c-blank ids='141f4025-c191-42e9-bb76-5b84220cb661' display='inline' length='4'></c-blank> for everyone?.</p>",
+                            "description": null,
+                            "media": null
+                        },
+                        {
+                            "id": "6685bd38-880d-4027-a4c6-d37d9f6ef0dc",
+                            "type": "image",
+                            "content": "Image name",
+                            "description": null,
+                            "media": [
+                                {
+                                    "aspectRatio": null,
+                                    "src": "https://www.globant.com/sites/default/files/styles/lazy_sizeload_default/public/home_services_over_platforms.jpg",
+                                    "captions": null
+                                }
+                            ]
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": "111f4025-c191-42e9-bb76-5b84220cb66c",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "confirm",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "121f4025-c191-42e9-bb76-5b84220cb66c",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "confirm",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "131f4025-c191-42e9-bb76-5b84220cb66c",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "won't",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb66c",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "work",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb668",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "eight",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb667",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "seven sins",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb666",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "six drinks",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb665",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "five musicians",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb664",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "four politicians",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb663",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "three archers",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb662",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "two elephants",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "141f4025-c191-42e9-bb76-5b84220cb661",
+                            "isCorrect": null,
+                            "elements": [
+                                {
+                                    "id": "5e1f4025-c191-42e9-bb76-5b84220cb66c",
+                                    "type": "content",
+                                    "content": "one content",
+                                    "description": null,
+                                    "media": null
+                                }
+                            ],
+                            "feedback": null
+                        }
+                    ],
+                    "feedback": null
+                }
+            }
+        ]
+    },
+    "audio": {
+        "id": "4eb66bc6-9ede-47da-b0e0-ec43e50aa87a",
+        "version": "1.0.1",
+        "created": 1554812325,
+        "type": "fill_in",
+        "subType": "fill_in",
+        "title": "Understanding Words with Similar Meanings",
+        "presentation": {
+            "title": "Understanding Words with Similar Meanings",
+            "elements": [
+                {
+                    "id": "9bfa7c04-e353-4bd3-827a-a786b76bc144",
+                    "type": "content",
+                    "content": "<p>Read and listen to an interview with an expert who is talking about planning a conference. Study the words in bold in the audio script. Use the context to guess what they mean.</p>\n<p><b>Interviewer</b>: What are the most important considerations when choosing a conference location?</p>\n<p><b>Ros Pomeroy</b>: There are three types of considerations for any conference organizer.</p>\n<ul>\n<li>Firstly, the <b>practical</b> - the venue itself, its quality and the service provided; the location, the distance to travel; the capacity of the venue; and, importantly, the cost.</li>\n<li>The second type of consideration is about whether the venue is a place that will allow the <b>objectives</b> of the conference to be met. So, in this example, the conference objectives are to allow <b>networking</b>, to allow people to discuss the marketing strategy of the company, and a reward and thank you for the employees for all their hard work.</li>\n<li>And the third type of consideration is what is it that the venue <b>symbolizes</b>? So, what <b>message</b> does it say about the company and its ambitions? What is it saying to its employees? So, as an example, if a company is looking to find ways of becoming more efficient, or save costs, then <b>staging</b> a conference at a very luxurious and expensive hotel would symbolize the wrong things.</li>\n</ul>",
+                    "description": null,
+                    "media": [],
+                    "captions": []
+                },
+                {
+                    "id": "9cfabce8-1560-4f1a-92e2-ccb0b90029f2",
+                    "type": "audio",
+                    "content": null,
+                    "description": null,
+                    "media": [
+                        {
+                            "aspectRatio": null,
+                            "src": "https://content.learnship.com/assets/2019-04/t2u8a188_1_1554812763.mp3"
+                        }
+                    ],
+                    "captions": []
+                }
+            ]
+        },
+        "directions": {
+            "elements": [
+                {
+                    "id": "51772985-ff0b-46c0-a465-ade62e12e896",
+                    "type": "content",
+                    "content": "<p>Using a rich vocabulary can help you communicate your ideas and suggestions in a professional manner. Practice matching words that have similar meanings.</p>",
+                    "description": null,
+                    "media": [],
+                    "captions": []
+                }
+            ]
+        },
+        "duration": "600",
+        "skill": [
+            "reading",
+            "listening",
+            "vocabulary"
+        ],
+        "targetSkill": "Professional Presence and Influence",
+        "targetSubSkill": null,
+        "targetSkillColor": "#009AC7",
+        "subject": null,
+        "englishLevel": "Intermediate",
+        "scorable": true,
+        "feedbackType": "instant",
+        "contents": [
+            {
+                "directions": null,
+                "question": {
+                    "id": "2f43ac85-796c-4163-aec3-125e531cb426",
+                    "elements": [
+                        {
+                            "id": "c18d61aa-f18e-42dc-b61b-bdca8c2844c8",
+                            "type": "content",
+                            "content": "<p>1.pay attention to or think about: <c-blank id=\"4e23da25-242a-4a55-8de0-7478c63abc86\" ids=\"4e23da25-242a-4a55-8de0-7478c63abc86\" display=\"inline\"></c-blank></p>\n<p>2.to be sensible: <c-blank id=\"084a7af8-fb72-4e6b-a027-29d968295733\" ids=\"084a7af8-fb72-4e6b-a027-29d968295733\" display=\"inline\"></c-blank></p>\n<p>3.a place for an event: <c-blank id=\"3845a083-46c8-489e-9c8f-005988edc494\" ids=\"3845a083-46c8-489e-9c8f-005988edc494\" display=\"inline\"></c-blank></p>\n<p>4.the purpose or reason for doing something: <c-blank id=\"f67e60d3-d8f3-4ee8-8cef-32a1445d1ac5\" ids=\"f67e60d3-d8f3-4ee8-8cef-32a1445d1ac5\" display=\"inline\"></c-blank></p>\n<p>5.to make contacts: <c-blank id=\"d5bbf2c8-38fc-4ce4-8886-03532db515c6\" ids=\"d5bbf2c8-38fc-4ce4-8886-03532db515c6\" display=\"inline\"></c-blank></p>\n<p>6.to exemplify or represent: <c-blank id=\"d0456c2d-ef37-4b22-b4e5-b393b1ba7ead\" ids=\"d0456c2d-ef37-4b22-b4e5-b393b1ba7ead\" display=\"inline\"></c-blank></p>\n<p>7.information: <c-blank id=\"c4eb5929-80ea-424a-8d0d-75a9d4c27e6e\" ids=\"c4eb5929-80ea-424a-8d0d-75a9d4c27e6e\" display=\"inline\"></c-blank></p>\n<p>8.to organize, present, or host: <c-blank id=\"835942c8-b61a-42ae-9e1b-8307ddad9a31\" ids=\"835942c8-b61a-42ae-9e1b-8307ddad9a31\" display=\"inline\"></c-blank></p>",
+                            "description": null,
+                            "media": [],
+                            "captions": []
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "id": "4e23da25-242a-4a55-8de0-7478c63abc86",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "50389dcd-120c-4dd7-94ff-8061fbdbbb2b",
+                                    "type": "content",
+                                    "content": "consider",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "084a7af8-fb72-4e6b-a027-29d968295733",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "73dd99c7-77d4-4a8e-9031-5d62d2788ff8",
+                                    "type": "content",
+                                    "content": "practical",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "3845a083-46c8-489e-9c8f-005988edc494",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "118b41ae-de06-404f-bdfd-df56138d16d3",
+                                    "type": "content",
+                                    "content": "venue",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "f67e60d3-d8f3-4ee8-8cef-32a1445d1ac5",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "e7dc365a-510c-4b49-9f71-2202bba3b8b3",
+                                    "type": "content",
+                                    "content": "objective",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "d5bbf2c8-38fc-4ce4-8886-03532db515c6",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "c9300497-a158-4516-a9fb-f71bbea83f03",
+                                    "type": "content",
+                                    "content": "network",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "d0456c2d-ef37-4b22-b4e5-b393b1ba7ead",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "d167e2a2-e14f-4603-9aa4-50161928310a",
+                                    "type": "content",
+                                    "content": "symbolize",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "c4eb5929-80ea-424a-8d0d-75a9d4c27e6e",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "0c25aa5d-37dc-4147-b117-9dc1e48b2d22",
+                                    "type": "content",
+                                    "content": "message",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        },
+                        {
+                            "id": "835942c8-b61a-42ae-9e1b-8307ddad9a31",
+                            "isCorrect": true,
+                            "elements": [
+                                {
+                                    "id": "1b8214d8-51eb-4af4-ad8a-f6288744c70b",
+                                    "type": "content",
+                                    "content": "stage",
+                                    "description": null,
+                                    "media": [],
+                                    "captions": []
+                                }
+                            ],
+                            "feedback": null
+                        }
+                    ],
+                    "feedback": null
+                }
+            }
+        ],
+        "xapi": {
+            "object": {
+                "id": "4eb66bc6-9ede-47da-b0e0-ec43e50aa87a",
+                "definition": {
+                    "name": {
+                        "en-US": "Understanding Words with Similar Meanings"
+                    },
+                    "type": "http://adlnet.gov/expapi/activities/lesson",
+                    "interactionType": "choice"
+                }
+            }
+        },
+        "nextMission": {
+            "id": "5ef9b9c4-16e6-4fc4-8c46-797e85c90be3",
+            "version": "1.0.1",
+            "created": 1513242367,
+            "type": "fill_in",
+            "subType": "fill_in",
+            "title": "Matching Words with Similar Meanings",
+            "duration": "10 Mins",
+            "skill": [
+                "vocabulary"
+            ],
+            "targetSkill": "Professional Presence and Influence",
+            "targetSubSkill": null,
+            "targetSkillColor": "#009AC7",
+            "subject": null,
+            "englishLevel": "Intermediate",
+            "scorable": true,
+            "feedbackType": "instant"
+        }
+    }
 }

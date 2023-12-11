@@ -12,9 +12,11 @@ import { HeaderComponent } from './header/header.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { DirectionsComponent } from './directions/directions.component';
 import { ContentComponent } from './content/content.component';
+import { AudioPlayerComponent } from './components/audio-player/audio-player.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 const componentParsers: Array<HookParserEntry> = [
-  {component: CBlankComponent}
+  { component: CBlankComponent }
 ];
 
 @NgModule({
@@ -27,15 +29,17 @@ const componentParsers: Array<HookParserEntry> = [
     HeaderComponent,
     PresentationComponent,
     DirectionsComponent,
-    ContentComponent
+    ContentComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     DynamicHooksModule.forRoot({
-      globalParsers: componentParsers, 
+      globalParsers: componentParsers,
     }),
+    BrowserAnimationsModule,
+    AudioPlayerComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
