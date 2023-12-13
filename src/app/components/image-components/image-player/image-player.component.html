@@ -1,0 +1,4 @@
+<div class="image-player">
+    <div class="all-images" *ngIf="url==undefined"> <img [src]="link" *ngFor="let link of images" (click)="showImageViewer(link)"></div>
+    <image-viewer *ngIf="url!=undefined" [(url)]="url" (urlChange)="url=$event"></image-viewer>
+</div>

@@ -1,0 +1,32 @@
+.image-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+.viewer {
+    height: 90%;
+    width: 100%;
+    user-select: none;
+    bottom: 1%;
+}
+
+.image-viewer-button {
+    justify-self: end;
+    align-self: end;
+    margin: 20px 20px 0px 0px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #191919;
+    box-shadow: none;
+    color: white;
+    border: none;
+    z-index: 1;
+}
