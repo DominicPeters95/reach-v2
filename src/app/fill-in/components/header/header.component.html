@@ -1,0 +1,5 @@
+<div class="header">
+    <img (click)="goToPresentation(isPresent)" [ngStyle]="{'visibility': isPresent?'hidden':'visible'}" class="presentation" src="/assets/images/presentation icon.png" alt="presentation">
+    <div class="title"><ngx-dynamic-hooks [content]="title"></ngx-dynamic-hooks></div>
+    <img (click)="close()" class="close" src="/assets/images/close icon.png" alt="presentation">
+</div>

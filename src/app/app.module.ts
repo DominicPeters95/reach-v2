@@ -1,17 +1,13 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { HookParserEntry, DynamicHooksModule } from 'ngx-dynamic-hooks';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import { CBlankComponent } from './c-blank/c-blank.component';
-import { QuestionsAreaComponent } from './questions-area/questions-area.component';
-import { AnswersAreaComponent } from './answers-area/answers-area.component';
-import { NavigatorComponent } from './navigator/navigator.component';
-import { HeaderComponent } from './header/header.component';
-import { PresentationComponent } from './presentation/presentation.component';
-import { DirectionsComponent } from './directions/directions.component';
-import { ContentComponent } from './content/content.component';
+import { HomeComponent } from './home/home.component';
+import { FillInModule } from './fill-in/fill-in.module';
+import { BuildSentenceModule } from './build-sentence/build-sentence.module';
+import { CBlankComponent } from './common/c-blank/c-blank.component';
+import { DynamicHooksModule, HookParserEntry } from 'ngx-dynamic-hooks';
 
 const componentParsers: Array<HookParserEntry> = [
   {component: CBlankComponent}
@@ -20,19 +16,15 @@ const componentParsers: Array<HookParserEntry> = [
 @NgModule({
   declarations: [
     AppComponent,
-    CBlankComponent,
-    QuestionsAreaComponent,
-    AnswersAreaComponent,
-    NavigatorComponent,
-    HeaderComponent,
-    PresentationComponent,
-    DirectionsComponent,
-    ContentComponent
+    HomeComponent,
+    CBlankComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    BuildSentenceModule,
+    FillInModule,
     DynamicHooksModule.forRoot({
       globalParsers: componentParsers, 
     }),

@@ -1,5 +1,5 @@
 {
-  "data": {
+  "fill_in": {
       "version": "1.0.1",
       "type": "fill_in",
       "subType": "fill_in",
@@ -331,5 +331,520 @@
               }
           }
       ]
+  },
+  "build_sentence": {
+    "id": "eeae3bf6-d18e-4d9e-872b-650003677a85",
+    "version": "1.2.1",
+    "created": 1552912868,
+    "type": "fill_in",
+    "subType": "build_sentence",
+    "title": "Closing the Loop",
+    "presentation": {
+      "title": "Closing the Loop",
+      "elements": [
+        {
+          "id": "72e8869f-1695-47c0-aad3-2ab77a24d347",
+          "type": "content",
+          "content": "<p><span><span><span><span><span><span lang=\"EN-US\">Saying </span><span lang=\"EN-US\"><span>‘</span></span><span lang=\"EN-US\">thank you</span><span lang=\"EN-US\"><span>’</span></span><span lang=\"EN-US\"> or providing an update on a previous request are critical pieces of workplace social network etiquette. Etiquette is a code of behavior according to established norms. If you posted a question to ask for help or assistance, make sure to close the loop once your question has been answered. <i>Closing the loop</i>, which means to follow up or to check in to end the conversation by saying thank you or by providing an update on a previous request, recognizes the time and effort others took to respond to your post.</span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span lang=\"EN-US\"><span>Review the expressions you can use (depending on the context) to say thank you and <b>close the loop</b>:</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><i><span lang=\"EN-US\"><span>Thank you/Thank you so much. </span></span></i><br><i><span lang=\"EN-US\"><span>I really want to thank you for your help/the guidance.</span></span></i><br><i><span lang=\"EN-US\"><span>I couldn’t have done it without you/all of you.</span></span></i><br><i><span lang=\"EN-US\"><span>I really appreciate everyone’s suggestions.</span></span></i><br><i><span lang=\"EN-US\"><span>I’m grateful for your help/everyone’s help.</span></span></i><br><i><span lang=\"EN-US\"><span>I owe you one. </span></span></i><br><i><span lang=\"EN-US\"><span>I appreciate the feedback.</span></span></i><br><i><span lang=\"EN-US\"><span>I’m grateful for the assistance.</span></span></i></span></span></span></span></span></p>",
+          "description": null,
+          "media": [],
+          "captions": []
+        }
+      ]
+    },
+    "directions": {
+      "elements": [
+        {
+          "id": "788da53a-ccbc-412c-abd3-f7d06ce19c13",
+          "type": "content",
+          "content": "<p><span><span><span><span><span lang=\"EN-US\">Close the loop by building a ‘thank you’ statement.</span></span></span></span></span></p>",
+          "description": null,
+          "media": [],
+          "captions": []
+        }
+      ]
+    },
+    "duration": "600",
+    "skill": [
+      "fluency",
+      "writing"
+    ],
+    "targetSkill": "Business Communication",
+    "targetSubSkill": null,
+    "targetSkillColor": "#94BBD1",
+    "subject": null,
+    "englishLevel": "Intermediate",
+    "scorable": true,
+    "feedbackType": "instant",
+    "contents": [
+      {
+        "directions": null,
+        "question": {
+          "id": "ae3ef4bd-f64a-4705-8605-b1150c0816be",
+          "elements": [
+            {
+              "id": "c4bd2e3e-c5c6-43b2-af85-50403b01ce2f",
+              "type": "content",
+              "content": "<p><span><span><span><span><b><span lang=\"EN-US\">Zhi Ruo: </span></b><span lang=\"EN-US\">Does anyone know how I can find total time spent by a user in our livestreamed virtual classrooms?</span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\">Scott Poirot</span></b><span lang=\"EN-US\">: Look under user reports.</span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\">Zhi Ruo</span></b><span lang=\"EN-US\">: <c-blank id=\"91b6fec7-514a-4d27-8428-c35e56cc1f9e\" ids=\"91b6fec7-514a-4d27-8428-c35e56cc1f9e\" display=\"inline\"></c-blank><c-blank id=\"d1e4cda8-7afd-4615-943b-0d0a23683626\" ids=\"d1e4cda8-7afd-4615-943b-0d0a23683626\" display=\"inline\"></c-blank>! <c-blank id=\"aaa83ac5-9c9e-4c36-8d2a-5801bf680d70\" ids=\"aaa83ac5-9c9e-4c36-8d2a-5801bf680d70\" display=\"inline\"></c-blank>, @<span>Scott Poirot</span>.</span></span></span></span></span></p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "91b6fec7-514a-4d27-8428-c35e56cc1f9e",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "5ab5c884-5076-43ee-8d66-d17e91f250f4",
+                  "type": "content",
+                  "content": "I didn't",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "d1e4cda8-7afd-4615-943b-0d0a23683626",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "edc0bd26-993a-477d-9efd-86e79d2fff6e",
+                  "type": "content",
+                  "content": "think of that",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "aaa83ac5-9c9e-4c36-8d2a-5801bf680d70",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "e9c55846-ab4d-4496-8937-4d2652c2bd41",
+                  "type": "content",
+                  "content": "I owe you one",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "f03b5255-c6a7-45d5-a504-46e439fc6b65",
+          "elements": [
+            {
+              "id": "c12d421d-586b-4f18-81ab-ed6cc7aa32aa",
+              "type": "content",
+              "content": "<p><span><span><span><span><b><span lang=\"EN-US\"><span>Kate Brenner</span></span></b><span lang=\"EN-US\"><span>:<b><span lang=\"EN-US\"><span> </span></span></b>When is the new corporate template debuting?</span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Marco Lopez</span></span></b><span lang=\"EN-US\"><span>: </span></span><span lang=\"EN-US\"><span>Team in Buenos Aires, the corporate template, complete with an introduction to our company, problems we solve, services and solutions, references, awards, etc., is ready and you can find it at the embedded link.</span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Kate Brenner</span></span></b><span lang=\"EN-US\"><span>:</span><span> <c-blank id=\"6987ce77-730b-4b54-8d5b-bbb03dbb4ddb\" ids=\"6987ce77-730b-4b54-8d5b-bbb03dbb4ddb\" display=\"inline\"></c-blank>, <span><c-blank id=\"b3c7f689-f634-4b01-9e22-512445bc0a12\" ids=\"b3c7f689-f634-4b01-9e22-512445bc0a12\" display=\"inline\"></c-blank>,</span> <c-blank id=\"7e59aba8-e3c2-430c-838c-f54ecad96d89\" ids=\"7e59aba8-e3c2-430c-838c-f54ecad96d89\" display=\"inline\"></c-blank><c-blank id=\"a8fcd5f6-5019-478d-8a6b-e7a4f03e56b4\" ids=\"a8fcd5f6-5019-478d-8a6b-e7a4f03e56b4\" display=\"inline\"></c-blank>. </span></span></span></span></span></span></p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "6987ce77-730b-4b54-8d5b-bbb03dbb4ddb",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "6f067774-675b-4863-8421-2503fa140f30",
+                  "type": "content",
+                  "content": "On behalf of the Team in Bueno Aires",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "b3c7f689-f634-4b01-9e22-512445bc0a12",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "301798b9-c791-46d2-9ac7-1060689dc5ff",
+                  "type": "content",
+                  "content": "I want to thank you",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "7e59aba8-e3c2-430c-838c-f54ecad96d89",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "f6963cbf-9d48-4550-8a9c-d2bd4b940cee",
+                  "type": "content",
+                  "content": "Marco Lopez for getting",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "a8fcd5f6-5019-478d-8a6b-e7a4f03e56b4",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "74620aba-7762-4610-ae6d-a46763db431e",
+                  "type": "content",
+                  "content": "the template completed speedily",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "7c3873ab-74cf-4f18-96c2-b443fd42d20a",
+          "elements": [
+            {
+              "id": "69e7b454-f956-4843-b3d1-ccf8143fa0e4",
+              "type": "content",
+              "content": "<p><span><span><span><span><b><span lang=\"EN-US\"><span>Dan </span></span></b><b><span lang=\"EN-US\"><span>Svensson</span></span></b><span lang=\"EN-US\"><span>: When is the launch of the new internal HR tool?</span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Ravi Gupta</span></span></b><span lang=\"EN-US\"><span>: We will be previewing the new HR tool at the next open forum and will be launching it right after. Let us know if you have any questions about the tool you would like addressed.</span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Dan </span></span></b><b><span lang=\"EN-US\"><span>Svensson</span></span></b><span lang=\"EN-US\"><span>: <c-blank id=\"6316f777-cce1-4e78-9d44-c9ae1b246544\" ids=\"6316f777-cce1-4e78-9d44-c9ae1b246544\" display=\"inline\"></c-blank><c-blank id=\"b00310fd-5759-4d80-aa55-a2d460e79686\" ids=\"b00310fd-5759-4d80-aa55-a2d460e79686\" display=\"inline\"></c-blank><c-blank id=\"6e0e107e-35c8-4948-ae2d-0e981a49d788\" ids=\"6e0e107e-35c8-4948-ae2d-0e981a49d788\" display=\"inline\"></c-blank>. '<c-blank id=\"fa32e651-fe75-46e7-9f36-db4794ca7bff\" ids=\"fa32e651-fe75-46e7-9f36-db4794ca7bff\" display=\"inline\"></c-blank>!</span></span></span></span></span></span></p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "6316f777-cce1-4e78-9d44-c9ae1b246544",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "7708836a-9eb0-4a1d-b25f-61f6075a8e59",
+                  "type": "content",
+                  "content": "Thank you",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "b00310fd-5759-4d80-aa55-a2d460e79686",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "66a81126-5301-4bd4-a4b6-2363f52bbeaf",
+                  "type": "content",
+                  "content": "for",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "6e0e107e-35c8-4948-ae2d-0e981a49d788",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "f25049f6-c1ea-401c-a884-1a0d08a6443d",
+                  "type": "content",
+                  "content": "letting me know, Ravi Gupta",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "fa32e651-fe75-46e7-9f36-db4794ca7bff",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "92d7ce86-09ef-4dd4-8a96-f34095da6b13",
+                  "type": "content",
+                  "content": "Looking forward to it",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "b4fef4b1-9ecd-4d6b-8060-432536b96825",
+          "elements": [
+            {
+              "id": "1a804f18-0042-4679-a8e4-c47cdca43588",
+              "type": "content",
+              "content": "<p><span><span><span><span><b><span lang=\"EN-US\"><span>Adithi Ram</span></span></b><span lang=\"EN-US\"><span>:<b><span lang=\"EN-US\"><span> </span></span></b>If you have some time please fill out the feedback form on my presentation.<b> </b></span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Amer Riaz</span></span></b><span lang=\"EN-US\"><span>: I already did. Kudos for a fabulous presentation on sales methodology. Wonderful job!</span></span></span></span></span></span></p>\n<b><span lang=\"EN-US\"><span><span>Adithi Ram</span></span></span></b><span lang=\"EN-US\"><span><span>: <c-blank id=\"58f947b8-37ea-4ec4-9bad-0a717b3363b3\" ids=\"58f947b8-37ea-4ec4-9bad-0a717b3363b3\" display=\"inline\"></c-blank></span></span><span><span><span>! </span></span></span></span><c-blank id=\"c0f647b2-d090-4546-ab8e-c9e7b7ab7f8c\" ids=\"c0f647b2-d090-4546-ab8e-c9e7b7ab7f8c\" display=\"inline\"></c-blank><span lang=\"EN-US\"><span><span> <c-blank id=\"77e2320c-3cff-4375-8e6b-f316c032fd27\" ids=\"77e2320c-3cff-4375-8e6b-f316c032fd27\" display=\"inline\"></c-blank><span><c-blank id=\"8ba53e30-955a-4433-8f37-d9229ecbc627\" ids=\"8ba53e30-955a-4433-8f37-d9229ecbc627\" display=\"inline\"></c-blank>.</span> </span></span></span>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "58f947b8-37ea-4ec4-9bad-0a717b3363b3",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "e697e56e-f15b-4033-a89e-c38b7c064099",
+                  "type": "content",
+                  "content": "Thanks",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "c0f647b2-d090-4546-ab8e-c9e7b7ab7f8c",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "ba372641-3465-4f67-9d43-a66aad15baba",
+                  "type": "content",
+                  "content": "I appreciate",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "77e2320c-3cff-4375-8e6b-f316c032fd27",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "764499b6-bb69-42f8-b5fa-625db9b3880c",
+                  "type": "content",
+                  "content": "the",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "8ba53e30-955a-4433-8f37-d9229ecbc627",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "5d038e51-dc3d-4d5a-9333-f6ee02c6a695",
+                  "type": "content",
+                  "content": "feedback, Amer Riaz",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "edfa46ad-a8b8-45bf-9662-3a82e3e77039",
+          "elements": [
+            {
+              "id": "52c95c9d-a4e9-49eb-91d7-dd3e7cd946c1",
+              "type": "content",
+              "content": "<p><span><span><span><span><span><b><span lang=\"EN-US\"><span>Julia Alvarez</span></span></b><span lang=\"EN-US\"><span>:<b><span lang=\"EN-US\"><span> </span></span></b>Does anyone have any user data to share about the social media icons on our website? </span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><b><span lang=\"EN-US\"><span>Sven Vassel</span></span></b><span lang=\"EN-US\"><span>: We are finding a lot of issues with social media icons placed on our website. Users cannot access them if their company blocks those social media sites. I recommend we either remove them or move them to the bottom of the page.</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><b><span lang=\"EN-US\"><span>Julia Alvarez</span></span></b><span lang=\"EN-US\"><span>: <span><c-blank id=\"8bfa4f20-5da8-49ae-b676-9ee4c46e9a12\" ids=\"8bfa4f20-5da8-49ae-b676-9ee4c46e9a12\" display=\"inline\"></c-blank>,</span> <span><c-blank id=\"2fdd9e95-ccf7-4cf6-89d3-798fec8fb631\" ids=\"2fdd9e95-ccf7-4cf6-89d3-798fec8fb631\" display=\"inline\"></c-blank>,</span> <c-blank id=\"fddab60c-3fcc-4ed3-9eeb-60132e934780\" ids=\"fddab60c-3fcc-4ed3-9eeb-60132e934780\" display=\"inline\"></c-blank><c-blank id=\"bc3295c7-2593-4c48-9caa-b0da3cc42ab6\" ids=\"bc3295c7-2593-4c48-9caa-b0da3cc42ab6\" display=\"inline\"></c-blank><c-blank id=\"ab064f00-66a3-4c5c-a946-3f1516d0fcf5\" ids=\"ab064f00-66a3-4c5c-a946-3f1516d0fcf5\" display=\"inline\"></c-blank>. <c-blank id=\"4d8963be-3bc8-47ab-ac07-a45cd0f38416\" ids=\"4d8963be-3bc8-47ab-ac07-a45cd0f38416\" display=\"inline\"></c-blank>, <c-blank id=\"6b60ac36-3503-467d-9165-303a58cdaf7a\" ids=\"6b60ac36-3503-467d-9165-303a58cdaf7a\" display=\"inline\"></c-blank><c-blank id=\"131afb7c-5210-4d6b-aecd-1ed10c7ec60c\" ids=\"131afb7c-5210-4d6b-aecd-1ed10c7ec60c\" display=\"inline\"></c-blank><c-blank id=\"dcfa6d06-2d0d-4483-996a-813d6ab3dc13\" ids=\"dcfa6d06-2d0d-4483-996a-813d6ab3dc13\" display=\"inline\"></c-blank>. </span></span></span></span></span></span></p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "8bfa4f20-5da8-49ae-b676-9ee4c46e9a12",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "2e6e14d2-b149-44c2-b300-52ff256fd27e",
+                  "type": "content",
+                  "content": "Thanks",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "2fdd9e95-ccf7-4cf6-89d3-798fec8fb631",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "1cc1cc01-20a0-493f-a53e-c51674760cd2",
+                  "type": "content",
+                  "content": "SvenVassel",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "fddab60c-3fcc-4ed3-9eeb-60132e934780",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "596cf413-4c86-4c50-bdda-b2123fdd44b1",
+                  "type": "content",
+                  "content": "for",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "bc3295c7-2593-4c48-9caa-b0da3cc42ab6",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "3f2a0649-9b9e-4699-b166-8d4d2632b042",
+                  "type": "content",
+                  "content": "this",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "ab064f00-66a3-4c5c-a946-3f1516d0fcf5",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "c9a5adf8-8fd6-4f5a-aeba-07fdf0fe0878",
+                  "type": "content",
+                  "content": "update",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "4d8963be-3bc8-47ab-ac07-a45cd0f38416",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "c6d557eb-3ef1-46aa-966d-5d83234c361a",
+                  "type": "content",
+                  "content": "If that's the case",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "6b60ac36-3503-467d-9165-303a58cdaf7a",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "acc870f9-56ed-4618-9758-918a178d0cf4",
+                  "type": "content",
+                  "content": "I agree that",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "131afb7c-5210-4d6b-aecd-1ed10c7ec60c",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "aa095fb1-36e4-4d7c-a6ff-5544cfe295b3",
+                  "type": "content",
+                  "content": "they should be removed",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            },
+            {
+              "id": "dcfa6d06-2d0d-4483-996a-813d6ab3dc13",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "ebeb5945-dd70-4176-8448-644dc6fd00d1",
+                  "type": "content",
+                  "content": "from the homepage",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      }
+    ],
+    "xapi": {
+      "object": {
+        "id": "eeae3bf6-d18e-4d9e-872b-650003677a85",
+        "definition": {
+          "name": {
+            "en-US": "Closing the Loop"
+          },
+          "type": "http://adlnet.gov/expapi/activities/lesson",
+          "interactionType": "choice"
+        }
+      }
+    },
+    "nextMission": null
   }
 }

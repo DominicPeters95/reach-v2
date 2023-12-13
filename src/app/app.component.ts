@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { DataService } from './services/data.service';
+import { FillInService } from './services/fill-in.service';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +9,6 @@ import { DataService } from './services/data.service';
 export class AppComponent{
   title = 'solve';
 
-  constructor(private dataService: DataService){this.dataService.loadData();}
+  // constructor(private dataService: FillInFillInService){this.dataService.loadData();}
 
 }

@@ -1,0 +1,6 @@
+<app-header [title]="title"></app-header>
+<app-fill-in-question [option]="option"></app-fill-in-question>
+<div [ngStyle]="{'display': isLoaded? '':'none'}" class="bottom-area">
+    <app-fill-in-answer (optionId)="addOptions($event)"></app-fill-in-answer>
+    <app-navigator></app-navigator>
+</div>
