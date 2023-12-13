@@ -14,6 +14,7 @@ import { DirectionsComponent } from './screens/directions/directions.component';
 import { ContentComponent } from './screens/content/content.component';
 import { AudioPlayerComponent } from './components/audio-player/audio-player.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { ImagePlayerComponent } from './components/image-components/image-player/image-player.component';
 
 const componentParsers: Array<HookParserEntry> = [
   { component: CBlankComponent }
@@ -39,7 +40,8 @@ const componentParsers: Array<HookParserEntry> = [
       globalParsers: componentParsers,
     }),
     BrowserAnimationsModule,
-    AudioPlayerComponent
+    ImagePlayerComponent,
+    AudioPlayerComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]
