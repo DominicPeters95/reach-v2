@@ -4,20 +4,17 @@ import { HookParserEntry, DynamicHooksModule } from 'ngx-dynamic-hooks';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import { CBlankComponent } from './components/c-blank/c-blank.component';
-import { QuestionsAreaComponent } from './screens/questions-area/questions-area.component';
-import { AnswersAreaComponent } from './screens/answers-area/answers-area.component';
-import { NavigatorComponent } from './components/navigator/navigator.component';
-import { HeaderComponent } from './components/header/header.component';
-import { PresentationComponent } from './screens/presentation/presentation.component';
-import { DirectionsComponent } from './screens/directions/directions.component';
-import { ContentComponent } from './screens/content/content.component';
-import { AudioPlayerComponent } from './components/audio-player/audio-player.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { ImagePlayerComponent } from './components/image-components/image-player/image-player.component';
+import { CBlankComponent } from './c-blank/c-blank.component';
+import { QuestionsAreaComponent } from './questions-area/questions-area.component';
+import { AnswersAreaComponent } from './answers-area/answers-area.component';
+import { NavigatorComponent } from './navigator/navigator.component';
+import { HeaderComponent } from './header/header.component';
+import { PresentationComponent } from './presentation/presentation.component';
+import { DirectionsComponent } from './directions/directions.component';
+import { ContentComponent } from './content/content.component';
 
 const componentParsers: Array<HookParserEntry> = [
-  { component: CBlankComponent }
+  {component: CBlankComponent}
 ];
 
 @NgModule({
@@ -30,18 +27,15 @@ const componentParsers: Array<HookParserEntry> = [
     HeaderComponent,
     PresentationComponent,
     DirectionsComponent,
-    ContentComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     DynamicHooksModule.forRoot({
-      globalParsers: componentParsers,
+      globalParsers: componentParsers, 
     }),
-    BrowserAnimationsModule,
-    ImagePlayerComponent,
-    AudioPlayerComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]
