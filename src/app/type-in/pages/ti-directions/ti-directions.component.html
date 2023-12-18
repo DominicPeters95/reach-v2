@@ -1,0 +1,7 @@
+<app-header [isPresent]="false" [title]="title"></app-header>
+<div class="area">
+    <div *ngFor="let i of elements" class="text">
+        <ngx-dynamic-hooks [content]="i.content"></ngx-dynamic-hooks>
+    </div>
+</div>
+<div class="button" (click)="mission()"><button>START!</button></div>

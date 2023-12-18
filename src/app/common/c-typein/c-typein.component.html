@@ -1,0 +1,23 @@
+<span class="type" style="display: inline-flex;">
+    <button (click)="onClick()"
+    [ngStyle]="{
+        'background-color': bgColor,
+        'border-color': borderColor,
+        }">
+        <div [ngStyle]="{'color': color,}" class="text">
+            <span style="color: transparent;">-</span>
+            {{text}}
+            <span style="color: transparent;">-</span>
+        </div>
+        <input [(ngModel)]="text" (input)="onDataChnage(text)" type="text" #myInput >
+    </button>
+    <span class="suggetions">
+        ({{hint}})
+    </span> 
+</span>
+
+
+
+
+
+

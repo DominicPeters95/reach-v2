@@ -3,6 +3,14 @@
 <div class="buttons">
     <button (click)="onClick('fill_in')">Fill In</button>
     <button (click)="onClick('build_sentence')">Fill In Build Sentences</button>
-    <button (click)="onClick('fill_in')">Type In</button>
+    <button (click)="onClick('type_in')">Type In</button>
     <button (click)="onClick('fill_in')">Multiple Choice</button>
+
+    <button>
+        <div class="text">
+            {{text}}
+        </div>
+        <input [(ngModel)]="text" type="text">
+    </button>
+
 </div>

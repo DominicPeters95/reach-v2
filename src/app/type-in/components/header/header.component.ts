@@ -18,7 +18,7 @@ export class HeaderComponent {
 
 
   goToPresentation(nav: boolean){
-    this.route.navigate(["build_senetence/presentation"]);
+    this.route.navigate(["type_in/presentation"]);
   }
 
   close(){

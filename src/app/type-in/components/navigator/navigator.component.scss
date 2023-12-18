@@ -1,0 +1,41 @@
+.filled_icon{
+    width: .4rem;
+    height: .4rem;
+    background-color: #D5D5D5;
+    border-radius: 50%;
+    margin: .15rem;
+}
+
+.blank_icon{
+    width: .4rem;
+    height: .4rem;
+    background-color: #2D3941;
+    border-radius: 50%;
+    margin: .15rem;
+}
+.navigator{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+button{
+    min-width: 5rem;
+    height: 70%;
+    border: 2px solid #2D3941;
+    color: #2D3941;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    background-color: white;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: 'Assistant', sans-serif;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+button:hover{
+    color: white;
+    background-color: #2D3941;
+}

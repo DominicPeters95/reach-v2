@@ -846,5 +846,270 @@
       }
     },
     "nextMission": null
+  },
+  
+  "type_in": {
+    "id": "404f2067-a145-4b08-92ae-02cf8fa30940",
+    "version": "1.2.1",
+    "created": 1552910841,
+    "type": "fill_in",
+    "subType": "type_in",
+    "title": "Social Media Vocabulary Practice",
+    "presentation": {
+      "title": "Social Media Vocabulary Practice",
+      "elements": [
+        {
+          "id": "fcb08e0a-bb38-4346-ba1e-aef62e50568a",
+          "type": "content",
+          "content": "<p>An enterprise (or workplace) social network is social media for businesses and companies. It is designed to provide a private, manageable, and secure online space for encouraging talk, discussion, and collaboration between employees within a given organization. Below is a short list of some key terms/words that can help you get familiar with its workings:</p>\n<p><b>NOUNS</b></p>\n<p><b>comment: </b>an answer, response or reaction to a message on a social network</p>\n<p><b>follower</b>: a person who subscribes to your social media account to receive your updates </p>\n<p><b>hashtag</b>: a word or phrase preceded by a \"#\" (i.e. #InboundMarketing) to tag and categorize information and make it easily searchable for users</p>\n<p><b>news feed</b>: a constantly updating list of news, events, pictures, and posts from people a user follows on social media</p>\n<p><b>thread:</b> the original post plus all the comments and likes that accompany the post</p>\n<p><b>emoticon:</b> a pictorial representation of a facial expression used in writing to help the reader know the writer’s emotions</p>\n<p><b>social media</b>: a collection of online communication channels encouraging talk and the sharing of information between users</p>\n<p><b>social networking:</b><b> </b>socializing in an online community</p>\n<p><b>tag: </b>a social media functionality that lets users link back to a user (v.<b> tagging</b>)</p>\n<p><b>troll:</b> a person who provokes a reaction, disrupts conversation, or creates controversy in an online setting (v. <b>trolling</b>)</p>\n<p><br><b>ADJECTIVES</b></p>\n<p><b>trending:</b> extremely popular in the current moment on social media</p>\n<p><b>viral</b>: something is <b>viral</b> (or goes <b>viral</b>) when a lot of people have seen the content and shared it with other people</p>",
+          "description": null,
+          "media": [],
+          "captions": []
+        }
+      ]
+    },
+    "directions": {
+      "elements": [
+        {
+          "id": "bd29387f-6a78-492c-9456-19adbed1e31d",
+          "type": "content",
+          "content": "<span lang=\"EN-US\"><span><span>Use the vocabulary words from the list you just reviewed to complete each sentence. </span></span></span>",
+          "description": null,
+          "media": [],
+          "captions": []
+        }
+      ]
+    },
+    "duration": "600",
+    "skill": [
+      "reading",
+      "vocabulary"
+    ],
+    "targetSkill": "Business Communication",
+    "targetSubSkill": null,
+    "targetSkillColor": "#94BBD1",
+    "subject": null,
+    "englishLevel": "Intermediate",
+    "scorable": true,
+    "feedbackType": "instant",
+    "contents": [
+      {
+        "directions": null,
+        "question": {
+          "id": "7afabab0-fb2f-4ecf-b8f5-f43af1d950fb",
+          "elements": [
+            {
+              "id": "287ac25e-eba5-49c6-8ba8-bf83af7ed1f8",
+              "type": "content",
+              "content": "<p><span><span><span><span><span lang=\"EN-US\"><span>You need an active work email address to join <i>Grizzle</i>. The app allows <span><c-typein hint=\"socializing in an online community\" id=\"#\" ids=\"3feaa17e-19d6-4617-a3b6-bf4f2dc659ab\" display=\"inline\"></c-typein></span> between employees who join it.</span></span></span></span></span></span></p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "3feaa17e-19d6-4617-a3b6-bf4f2dc659ab",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "f7a38215-5f80-460a-8c4c-8ef827bc6a93",
+                  "type": "content",
+                  "content": "social networking",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "b21c4096-657e-40e5-a4b2-8f442df9b8b7",
+          "elements": [
+            {
+              "id": "5bbd03c3-d0c1-4a57-9490-06195dd08ff2",
+              "type": "content",
+              "content": "<span lang=\"EN-US\"><span><span>To keep my <span><c-typein hint=\"stories on home page\" id=\"#\" ids=\"85a1e229-cc50-4eae-a5c0-97a889afd141\" display=\"inline\"></c-typein></span> tidy, I only subscribe to things I really care about.</span></span></span>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "85a1e229-cc50-4eae-a5c0-97a889afd141",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "701299b4-8259-4e38-95bf-515dc222a2f0",
+                  "type": "content",
+                  "content": "news feed",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "4c47702c-9864-487f-9906-420f0009e5b0",
+          "elements": [
+            {
+              "id": "801afc42-6bf0-4716-b7f2-7c1a08303970",
+              "type": "content",
+              "content": "<span lang=\"EN-US\"><span><span><span>You need to start a new <span><c-typein hint=\"post plus comments\" id=\"#\" ids=\"c8610a31-0939-4ca4-9ad4-953aa1c5bf48\" display=\"inline\"></c-typein></span> since the discussion has moved from big data to sales.</span></span></span></span>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "c8610a31-0939-4ca4-9ad4-953aa1c5bf48",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "2f519af1-46c2-4d94-9e1f-725d0199d427",
+                  "type": "content",
+                  "content": "thread",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "1370b396-bd9b-4139-abcd-937ccdc60e55",
+          "elements": [
+            {
+              "id": "8cd37eac-d51d-408a-bc23-3ecc9af43d4c",
+              "type": "content",
+              "content": "<span lang=\"EN-US\"><span><span><span><span>The behind-the-scenes video of the product launch went <span><c-typein hint=\"content seen and shared by a lot of people\" id=\"#\" ids=\"753122f5-65b6-4ff2-9a17-06f7149a54a0\" display=\"inline\"></c-typein></span> on the company’s social networking site.</span></span></span></span></span>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "753122f5-65b6-4ff2-9a17-06f7149a54a0",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "d13d4322-0bb6-4038-ad42-3f5c288df05e",
+                  "type": "content",
+                  "content": "viral",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "91fddb6f-fd89-45b7-93c6-2b3e49efbb39",
+          "elements": [
+            {
+              "id": "e571f439-3b61-4dee-9cef-6b7a11330bcb",
+              "type": "content",
+              "content": "<span lang=\"EN-US\"><span><span><span><span>Peter was fired for his unprofessional behavior on the company’s social networking site. He was constantly <span><c-typein hint=\"provoking controversy or disrupting conversation\" id=\"#\" ids=\"2d107ed4-5d36-4981-bebd-86a56189587f\" display=\"inline\"></c-typein></span></span></span></span></span></span><span lang=\"EN-US\"><span><span><span><span>­</span></span></span></span></span><span lang=\"EN-US\"><span><span><span><span>people and posting off-topic messages. </span></span></span></span></span>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "2d107ed4-5d36-4981-bebd-86a56189587f",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "79c1a48a-9407-442a-9bbd-97f38d7f0f50",
+                  "type": "content",
+                  "content": "trolling",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      },
+      {
+        "directions": null,
+        "question": {
+          "id": "b60b545c-2e5b-468f-aaeb-f44889767fa0",
+          "elements": [
+            {
+              "id": "ba636a5a-6962-443b-a0c2-d5593f2406d1",
+              "type": "content",
+              "content": "<p>Over the course of the week, hundreds of posts collected on the company’s social networking site under the <c-typein hint=\"#\" id=\"#\" ids=\"1fe55c68-df37-4686-85ea-543486941fbf\" display=\"inline\"></c-typein> #CorporateLifeAtSymmons. </p>",
+              "description": null,
+              "media": [],
+              "captions": []
+            }
+          ],
+          "answers": [
+            {
+              "id": "1fe55c68-df37-4686-85ea-543486941fbf",
+              "isCorrect": true,
+              "elements": [
+                {
+                  "id": "7e41ddd1-5291-481d-8a40-eccceb5f8384",
+                  "type": "content",
+                  "content": "hashtag",
+                  "description": null,
+                  "media": [],
+                  "captions": []
+                }
+              ],
+              "feedback": null
+            }
+          ],
+          "feedback": null
+        }
+      }
+    ],
+    "xapi": {
+      "object": {
+        "id": "404f2067-a145-4b08-92ae-02cf8fa30940",
+        "definition": {
+          "name": {
+            "en-US": "Social Media Vocabulary Practice"
+          },
+          "type": "http://adlnet.gov/expapi/activities/lesson",
+          "interactionType": "choice"
+        }
+      }
+    },
+    "nextMission": null
   }
 }

@@ -1,0 +1,47 @@
+.type{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    button{
+        font-size: 1rem;
+        font-family: 'Assistant', sans-serif;
+        margin: .3rem;
+        min-width: 7rem;
+        width: fit-content;
+        height: 2rem;
+        margin: .5em;
+        border: .13rem solid #006080;
+        border-radius: .3rem;
+        padding: 0;
+        cursor: pointer;
+    
+        .text{
+            display: flex;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            color: black;
+            font-weight: 600;
+        }
+    
+        input{
+            cursor: pointer;
+            margin: 0px;
+            padding: 0px;
+            min-width: 7rem;
+            width: 100%;
+            height: 100%;
+            position: relative;
+            bottom: 100%;
+            opacity: 0;
+        }
+    
+    }
+    .suggetions{
+        font-size: 1rem;
+        font-weight: 500;
+        font-style: italic;
+    }
+}
